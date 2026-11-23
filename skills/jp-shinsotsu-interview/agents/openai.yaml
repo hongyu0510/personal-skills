@@ -1,0 +1,4 @@
+interface:
+  display_name: "日本求职"
+  short_description: "新卒与中途的一面、二面、终面：日语模拟、同对话重练与中文复盘"
+  default_prompt: "使用 $jp-shinsotsu-interview 进行无公司新卒一面练习，时长30分钟。"
