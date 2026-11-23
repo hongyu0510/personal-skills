@@ -12,13 +12,12 @@
 
 ## 在另一台电脑首次安装
 
-先确保该电脑能够访问这个私有 GitHub 仓库。仅登录同一 Codex 账号不等于已安装本地 skill。
+这是公开 GitHub 仓库，读取和下载安装不需要登录 GitHub。每台电脑仍需安装本地 skill。
 
 在该电脑的 Codex 中发送：
 
 ```text
 使用 $skill-installer，从 GitHub 仓库 hongyu0510/personal-skills 的 main 分支安装 skills/jp-shinsotsu-interview，作为我的个人 skill。
-这是私有仓库，请使用我已登录的 GitHub 身份访问。
 ```
 
 安装完成后选择“日本求职”，或输入：
